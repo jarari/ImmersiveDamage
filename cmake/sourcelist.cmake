@@ -1,0 +1,12 @@
+set(SOURCES
+	src/PCH.h
+	src/main.cpp
+	src/Configs.h
+	src/Configs.cpp
+	src/Hooks.h
+	src/Hooks.cpp
+	src/MenuWatcher.h
+	src/MenuWatcher.cpp
+	src/Utils.h
+	src/Utils.cpp
+)

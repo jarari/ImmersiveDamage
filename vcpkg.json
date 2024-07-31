@@ -1,0 +1,13 @@
+{
+  "name": "ImmersiveDamage",
+  "version-string": "1.0.0",
+  "description": "No more stupid damage buffs",
+  "homepage": "https://github.com/jarari/ImmersiveDamage",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "mmio",
+    "spdlog"
+  ]
+}
